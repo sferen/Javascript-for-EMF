@@ -1,0 +1,27 @@
+
+Object oriented programming
+
+Review: objects, classes, encapsulation and information hiding, aggregation, inheritance, Polymorphism.
+
+Person contains DOB, Gender, Name; can Talk, Age, Yell. 
+Person class to make an Emily Object.
+Multiple objects: Emily, Stephen, Lisa together.
+Family object that contains Emily, Stephen, Lisa.
+Dad object that inherits everything from the Person.  Dad object extends the Person object by containing data about Belly_size and Smelly, and methods like Drive, Scratch_Butt.  You can change Talk in the Dad object: ÒI want coffee.Ó 
+
+
+
+Programming Basics
+Data types
+	Numbers 2, 12, 3.1415926535
+	Strings ÒeÓ, ÒEMFÓ, Ò!Ó, ÒWelcome earthlings. Take me to your leader.Ó, Ò1, 2, 3Ó
+	Boolean true or false
+	Undefined is a special value variable doesnÕt exist or was never set to a value
+	Null is special value nothing. Variable exists and its defined value is nothing.
+Any value or data that is not one of these 5 types is an object.
+
+Variables
+Declare a name: a1_ or 1a, not 1a_and set an initial value
+
+Arrays
+Loops
